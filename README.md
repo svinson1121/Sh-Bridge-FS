@@ -1,1 +1,1 @@
-###  Asterisk ARI to diameter sh interface bridge
+###  Node.js Asterisk ARI to diameter sh interface bridge
