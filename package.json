@@ -1,0 +1,19 @@
+{
+  "name": "sh-bridge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sh-bridge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ari-client": "^1.2.0",
+    "diameter": "^0.10.2",
+    "express": "^5.1.0",
+    "js-yaml": "^4.1.0",
+    "ws": "^8.18.1",
+    "xml2js": "^0.6.2"
+  }
+}

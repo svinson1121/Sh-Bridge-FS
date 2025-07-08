@@ -1,0 +1,15 @@
+diameter_client:
+  peer: 10.90.250.32
+  port: 3868
+  OriginHost: shbridge.ims.mnc435.mcc311.3gppnetwork.org
+  OriginRealm: ims.mnc435.mcc311.3gppnetwork.org
+  DestinationHost: hss01.epc.mnc435.mcc311.3gppnetwork.org
+  DestinationRealm: epc.mnc435.mcc311.3gppnetwork.org
+
+
+asterisk_ari:
+  peer: 10.90.250.100
+  port: 8088
+  username: shbridge 
+  password: password
+  appname: sh-bridge
