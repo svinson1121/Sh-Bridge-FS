@@ -7,9 +7,9 @@ diameter_client:
   DestinationRealm: epc.mnc435.mcc311.3gppnetwork.org
 
 
-asterisk_ari:
-  peer: 10.90.250.100
-  port: 8088
-  username: shbridge 
-  password: password
-  appname: sh-bridge
+
+freeswitch_esl:
+  username: 'ClueCon'         # default ESL user
+  password: 'ClueCon'         # default ESL pass
+  host: '127.0.0.1'
+  port: 8021

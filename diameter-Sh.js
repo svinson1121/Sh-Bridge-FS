@@ -34,7 +34,7 @@ const socket = diameter.createConnection(options, function () {
 });
 
 socket.on('diameterMessage', function (event) {
-    console.log('Received server-initiated message:', event.message.command);
+    //console.log('Received server-initiated message:', event.message.command);
     event.callback(event.response);
 });
 
