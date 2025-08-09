@@ -25,6 +25,7 @@ MSISDN: 3342012832
 
 
 
+
 Connected to Diameter server 10.90.250.32 Port 3868 (TCP)
 Connected to FreeSWITCH ESL at 127.0.0.1:8021
 Listening for ESL events from FreeSWITCH
