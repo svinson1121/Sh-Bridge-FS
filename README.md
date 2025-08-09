@@ -5,9 +5,13 @@
 
 
 install node.js  v24.3.0
+
 npm install
+
 edit config.yaml
+
 node sh-bridge.js
+
 
 
 
